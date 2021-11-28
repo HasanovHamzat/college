@@ -1,3 +1,4 @@
 # college
 AMK
-Demo https://hasanovhamzat.github.io/college/
+<a href="https://hasanovhamzat.github.io/college/">Demo</a>
+
